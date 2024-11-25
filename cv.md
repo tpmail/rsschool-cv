@@ -14,3 +14,9 @@ I'm new to programming and loved it at first sight. I hope to gain all the neces
 * HTML
 * SASS/SCSS/LESS
 * CSS
+
+## Code example:
+
+```
+const sum = (a, b) => a + b;
+```
