@@ -20,3 +20,13 @@ I'm new to programming and loved it at first sight. I hope to gain all the neces
 ```
 const sum = (a, b) => a + b;
 ```
+
+## Education:
+
+* learn.javascript.ru
+* youtube
+* htmlacademy
+
+## English level:
+
+A1
